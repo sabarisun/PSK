@@ -61,6 +61,7 @@ plt.show()
 ![PSK](https://github.com/user-attachments/assets/c2d83246-f52b-4aeb-b3d5-985e8041d8c3)
 
 ## GRAPH 
+![WhatsApp Image 2025-04-24 at 22 03 06_64120009](https://github.com/user-attachments/assets/2983e317-8e88-4416-b616-c45d08d16f77)
 
 ## RESULT
   THUS THE PSK (Phase Shift Keying) IS PERFORMED USING PYTHON
